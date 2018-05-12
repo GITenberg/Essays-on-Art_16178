@@ -1,0 +1,31 @@
+_repo: Essays-on-Art_16178
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clutton-Brock, A. (Arthur)
+    alias: Clutton-Brock, Arthur
+    birthdate: 1868
+    deathdate: 1924
+    gutenberg_agent_id: '6524'
+    url: http://www.gutenberg.org/2009/agents/6524
+description: ''
+gutenberg_issued: '2005-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16178'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art'
+- !lcc 'N'
+tableOfContents: '"The adoration of the Magi" -- Leonardo Da Vinci -- The Pompadour
+  in art -- An unpopular master -- A defence of criticism -- The artist and his audience
+  -- Wilfulness and wisdom -- "The magic flute" -- Process or person? -- The artist
+  and the tradesman -- Professionalism in art -- Waste or creation?'
+title: Essays on Art
+url: http://www.gutenberg.org/ebooks/16178
